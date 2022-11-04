@@ -1,0 +1,2 @@
+DATABASE:
+  URL: postgres://cqovpoktrmgapy:3273ef5387f83631b95331b5dcd6d425ef85f63e6620f5eb7e79e81d825a2cb0@ec2-54-75-102-122.eu-west-1.compute.amazonaws.com:5432/d8uhjbbmama0gb
